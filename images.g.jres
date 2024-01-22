@@ -1,0 +1,37 @@
+{
+    "image3": {
+        "data": "hwQQABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAkJmWmQkABgYAAAAAkJkGAJlpZmYMAAAAAAAAAGBmZpCZxszMZmYAAAAAAADAZmaZaWZmZpZpBgAAAAAAwGZimWlmZmbGbGYADwAAAMBsacHGZmbGzMxszA8AAADwzMIMzJyZyQzMzP8AAAAAAP8AAM/MzPwAAP8AAAAAAAAAAAD/////AAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image1": {
+        "data": "hwQUAAwAAAAAAAAAAAAAAACwCwAAAAAAAAsLAAAAAAAAALi7uw4AAACAiIjrAAAAAICIiIgOAAAAgIiICAAAAACAiIjoAAAAAICIiAgAAAAAgIiICAAAAACAiIgIAAAAgICIiAgAAACAgLuLCwAAAIC4iLu4DgAAAIiPuOgAAAAAiIiIiA4AAICIiIsAAAAAgICPCAAAAAAACAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQUAAwAAACZCZkJAAAAABmREZEAAAAAkBEREQkAAACRERERYQYAAJkRERERZgAAGREREZEGAAAZEREREQkAABkRERERCQAAGREREREJAAAZEREREQkAABkRERERCQAAGRGZGZEGAAAZkRGREWYAAJkREZFhBgAAEWFmGREAAAARZpmZEQAAABH5mZkRAAAAEZGZmQAAAABmkJkJAAAAAAAAmQAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image4": {
+        "data": "hwQQABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBEREQAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAQEQARFhYWEREREQAAAAAAEREBkZGREQEAABAAAAAAABEfEZGRkREBAAAAAAAAAAARERYRERERAQAAAAAAAAAAEB8BYWFhEREREREAAAAAAAAAABEAAAAAAAAQAAAAAAAAAAAQERERAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image5": {
+        "data": "hwQQABAAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Amethyst"
+    },
+    "image6": {
+        "data": "hwQQABAAAABsZmZmZmZmxmaZmZmWaWZmZt1mmd3W2WaW1tlmbd3WbZZp3WaWmZZpZmlt1m3dZmmWmWZmbdbWaZZpZmndZpZm1tZtadZplmZmmW3dlmnWaZaZltaW2WZp1paWaWmWlm3WbWnZZm3WZtaWltmd2dZtZt2ZmZZplmZsZmZmZmZmxg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "IronoreImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
